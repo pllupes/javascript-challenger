@@ -47,7 +47,7 @@ Desafio tecnico agronorte
 1. Acesse o GitHub em [https://github.com](https://github.com) e faça login na sua conta (ou crie uma, se necessário).
 2. Vá para o repositório que deseja fazer o fork.
 3. No canto superior direito da página do repositório, clique no botão "Fork". Isso criará uma cópia do repositório na sua conta.
-4. ou você pode clonar o repositório para o seu computador usando o comando Git. Certifique-se de substituir `<seu-nome-de-usuário>` pelo seu nome de usuário do GitHub e `<nome-do-repositório-forked>` pelo nome do repositório forked:
+4. apos o fork, você pode clonar o repositório que foi clonado pro seu proprio perfil do github para o seu computador usando o comando Git. Certifique-se de substituir `<seu-nome-de-usuário>` pelo seu nome de usuário do GitHub e `<nome-do-repositório-forked>` pelo nome do repositório forked:
 
    ```shell
    git clone https://github.com/seu-nome-de-usuário/nome-do-repositório-forked.git 
