@@ -1,2 +1,2 @@
-# javascript-challenger
+# Nível Junior
 Desafio tecnico agronorte
