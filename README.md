@@ -56,10 +56,11 @@ Desafio tecnico agronorte
 
 Logo após clonar o repositorio e entrar na pasta do projeto execute o seguinte comando para instalar as dependencias : ```npm install ```
 
-Abra o arquivo junior.js e escreva as funções seguinto as instriuções. Após terminar de implementar as funções execute ```npx jest``` para rodar os testes
+Abra o arquivo junior.js e escreva as funções seguinto as instruções. Após terminar de implementar as funções execute ```npx jest``` para rodar os testes
 
+Se todos os testes passarem você concluiu o desafio.
 
-
+![tt](https://github.com/Agronorte/javascript-challenger/assets/57598810/f8216312-055e-41f3-9112-6a02a7be1cc6)
 
 
 
