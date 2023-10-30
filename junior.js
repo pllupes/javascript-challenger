@@ -1,7 +1,7 @@
 //Crie uma função que receba uma string e retorne a mesma string, mas com todas as letras em maiúsculas.
 const toUpperCase = (str) => {};
 
-//Escreva uma função que recebe duas strings como argumento e concatena-as em uma única string com um espaço entre elas.
+//Escreva uma função que recebe duas strings como argumento e concatena-as em uma única string.
 const concatStrings = (str1, str2) => {};
 
 //Crie uma função que recebe uma string como argumento e retorna o número de caracteres nessa string.
